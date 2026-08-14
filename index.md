@@ -10,9 +10,9 @@ series: "Österliche Freudenzeit 2025"
 summary: "Ein herrlicher Morgen. Die Welt ist schön. Gott ist da. Die Weisheit tanzt. Grund zum Jubeln! Oder nicht? Wo dunkle Wolken aufziehen, haben wir Hoffnung: Gottes neue Schöpfung hat bereits begonnen. Und wir sind ein Teil davon."
 source: pfarrplaner
 source_id: "184@planer.pfarr.tools"
-cover: cover.
+cover: tanz-der-weisheit.jpg
 cover_alt: "Titelbild zur Predigt \"Tanz der Weisheit\"."
-audio: audio.mp3
+audio: tanz-der-weisheit.mp3
 audio_duration: "14:14"
 legacy_id: 504
 events:
